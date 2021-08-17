@@ -10,9 +10,3 @@
 
 [![Shivagangula github activity graph](https://activity-graph.herokuapp.com/graph?username=shivagangula&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivagangula&theme=dark)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivagangula&langs_count=8&theme=dark" />
-</a>
